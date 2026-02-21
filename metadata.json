@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Eco-Sort Platformer",
+  "description": "A 5-level physics platformer about waste sorting. Players must gather waste items (Hazardous, General, Organic, Recycle) and place them in the correct bins while navigating complex terrain.",
+  "requestFramePermissions": []
+}
